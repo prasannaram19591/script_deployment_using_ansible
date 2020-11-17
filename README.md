@@ -6,3 +6,4 @@ Pre-requisites:
 
 1.  Ansible master server
 2.  Linux machines 
+3.  Jenkins optionally for mailing purposes
